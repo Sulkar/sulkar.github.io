@@ -1,3 +1,7 @@
+## Links
+- [unsere-schule.org](www.unsere-schule.org)
+- [Infos zu SQL Abenteuer APP](https://telegra.ph/Electron-SQL-Mystery-App-07-20)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Sulkar/sulkar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
