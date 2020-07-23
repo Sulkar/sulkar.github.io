@@ -1,5 +1,5 @@
 ## Links
-- [unsere-schule.org](www.unsere-schule.org)
+- [unsere-schule.org](https://www.unsere-schule.org)
 - [Infos zu SQL Abenteuer APP](https://telegra.ph/Electron-SQL-Mystery-App-07-20)
 
 ## Welcome to GitHub Pages
